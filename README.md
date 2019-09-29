@@ -439,7 +439,7 @@ By the time you start PSA 1, we expect you to be comfortable with using the Shel
 By now, you hopefully feel more comfortable with the basics of programming and the logistics of the course. If you have questions, please use the tutor hours and Piazza to ask questions early. We're just getting started!
 
 ## 13. Submission
-This assignment is due on Tuesday, October 1, 2019, at 11:59PM and is worth 50 points.
+This assignment is due on Tuesday, October 8, 2019, at 11:59PM and is worth 50 points, with a possible 5 points of extra credit. 
 
 For the README.pdf, if you used Google Docs, then use "File -> Download as PDF" to convert to a PDF. If you used Microsoft Word, then "Save as PDF" works. **Make sure you have signed the [Academic Integrity form](https://docs.google.com/forms/d/e/1FAIpQLSd_MyRyWcwDKB6K_uXSBYjzFun0T0ffL21ObzM386qfB6cpHQ/viewform), there will not be a reminder for it when you submit to Gradescope**. The academic integrity form is **MANDATORY** and you **will not receive any grades until it is submitted**. Completing the AI tutorial does not constitute submitting the form (the AI tutorial is for the school, the form is for our class).
 
