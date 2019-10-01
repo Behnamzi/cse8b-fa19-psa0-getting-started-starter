@@ -228,7 +228,7 @@ cd ~
 ```
 Replace your vimrc by copying it from the public directory into your home directory with the command
 ```bash
-cp ../public/psa0/.vimrc ~/.vimrc
+cp ../public/psa0/vimrc ~/.vimrc
 ```
 Now let's open a new vim instance on the vimrc we just copied with the command
 ```bash
